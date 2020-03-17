@@ -1,4 +1,4 @@
-FROM SanketBhat/docker-android-build:v1.0.1
+FROM sanketbhat/docker-android-build:v1.0.1
 
 ##################
 # Install emulator images
